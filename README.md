@@ -21,6 +21,22 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (1).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (2).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (3).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (4).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (5).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (6).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (7).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (8).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (9).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (10).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (11).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (12).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (13).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (14).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (15).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (16).png"
+ "C:\Users\admin\Pictures\Screenshots\Screenshot (18).png"
 # Result
           <<include your Result here>>
